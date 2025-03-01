@@ -6,5 +6,5 @@ This task is.....
 - Step Three
 
 # Sample Output:
-![screenshot](/images/one.JPG)
+![screenshot](images/one.JPG)
 
