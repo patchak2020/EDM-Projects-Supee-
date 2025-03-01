@@ -6,5 +6,5 @@ This task is.....
 - Step Three
 
 # Sample Output:
-<img src="Midterm%20Task%201/images/one.JPG" width=300 height=300>
+![screenshot](Midterm%20Task%201/images/one.JPG)
 
