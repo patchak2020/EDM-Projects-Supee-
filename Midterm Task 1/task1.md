@@ -6,5 +6,5 @@ This task is.....
 - Step Three
 
 # Sample Output:
-![screenshot](Midterm%20Task%201/images/one.JPG)
+![screenshot](/images/one.JPG)
 
