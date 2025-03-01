@@ -10,5 +10,5 @@ Short professional bios are usually written in the third person and are limited 
 - HIgh School:Holy Angel University
 - Elementary
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%Task%1/README.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/patchak2020/EDM-Projects-Supee-/blob/main/Midterm%20Task%201/task1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
