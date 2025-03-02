@@ -7,8 +7,8 @@ Short professional bios are usually written in the third person and are limited 
 - Post Graduate: Doctor in Information Technology (DIT) - Ongoing (AUF)
 - Masters: Master in Informtion Technology(MIT)
 - College: Bachelor of Science in COmputer Science (HAU)
-- HIgh School:Holy Angel University
-- Elementary
+- High School:Holy Angel University
+  
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/patchak2020/EDM-Projects-Supee-/blob/main/Midterm%20Task%201/task1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
